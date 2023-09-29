@@ -4,7 +4,7 @@
 <img src="experiment/images/iitkgp.png" width="10%">
 </div>
 
-<b>Discipline | <b> Electronic Engineering 
+<b>Discipline | <b> Chemical Engineering 
 :--|:--|
 <b> Lab | <b> **Chemical Process Dynamics Laboratory**
 <b> Experiment|     <b> **Stirred tank heater**
