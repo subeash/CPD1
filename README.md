@@ -6,8 +6,8 @@
 
 <b>Discipline | <b> Electronic Engineering 
 :--|:--|
-<b> Lab | <b> **Digital Signal processing virtual laboratory**
-<b> Experiment|     <b> **Study of sampling theorem, effect of undersampling**
+<b> Lab | <b> **Chemical Process Dynamics Laboratory**
+<b> Experiment|     <b> **Stirred tank heater**
 
 
 ### About the Experiment 
